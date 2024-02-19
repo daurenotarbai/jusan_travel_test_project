@@ -1,0 +1,17 @@
+*.coverage
+*.DS_Store
+*.egg
+*.eggs
+*.egg-info
+*.git
+*.rdb
+*.sqlite3
+*.venv
+*.pytest_cache
+__pycache__
+build
+dist
+.idea
+env/
+media/
+

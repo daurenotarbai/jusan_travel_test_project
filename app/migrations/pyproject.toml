@@ -1,0 +1,4 @@
+[tool.aerich]
+tortoise_orm = "app.core.config.tortoise_orm"
+location = "./"
+src_folder = "./../../"
